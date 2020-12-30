@@ -1,0 +1,11 @@
+C:\Users\Jonathan\Desktop\dev\c#\cslox\CSLox\CSLox\bin\Debug\netcoreapp3.1\CSLox.exe
+C:\Users\Jonathan\Desktop\dev\c#\cslox\CSLox\CSLox\bin\Debug\netcoreapp3.1\CSLox.deps.json
+C:\Users\Jonathan\Desktop\dev\c#\cslox\CSLox\CSLox\bin\Debug\netcoreapp3.1\CSLox.runtimeconfig.json
+C:\Users\Jonathan\Desktop\dev\c#\cslox\CSLox\CSLox\bin\Debug\netcoreapp3.1\CSLox.runtimeconfig.dev.json
+C:\Users\Jonathan\Desktop\dev\c#\cslox\CSLox\CSLox\bin\Debug\netcoreapp3.1\CSLox.dll
+C:\Users\Jonathan\Desktop\dev\c#\cslox\CSLox\CSLox\bin\Debug\netcoreapp3.1\CSLox.pdb
+C:\Users\Jonathan\Desktop\dev\c#\cslox\CSLox\CSLox\obj\Debug\netcoreapp3.1\CSLox.csprojAssemblyReference.cache
+C:\Users\Jonathan\Desktop\dev\c#\cslox\CSLox\CSLox\obj\Debug\netcoreapp3.1\CSLox.AssemblyInfoInputs.cache
+C:\Users\Jonathan\Desktop\dev\c#\cslox\CSLox\CSLox\obj\Debug\netcoreapp3.1\CSLox.AssemblyInfo.cs
+C:\Users\Jonathan\Desktop\dev\c#\cslox\CSLox\CSLox\obj\Debug\netcoreapp3.1\CSLox.dll
+C:\Users\Jonathan\Desktop\dev\c#\cslox\CSLox\CSLox\obj\Debug\netcoreapp3.1\CSLox.pdb
